@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DarkSideDani
-- 👀 I’m interested in Game Dev.
-- 🌱 I’m currently learning C++/UnrealEngine
-- 💞️ I’m looking to collaborate on Game development
+- 👀 I’m interested in Full Stack Web Developing.
+- 🌱 I’m currently learning HTML/CSS/Bootstrap/JavaScript/React/Node.js etc.
 - 📫 How to reach me discord - DarkSideDani#1337
 
 <!---
