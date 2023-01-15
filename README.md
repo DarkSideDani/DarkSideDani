@@ -8,7 +8,7 @@ My interests are in Front End Engineering, and I love to create beautiful and pe
 
 * 🌍  London , UK
 * ✉️  You can contact me at [danieldascal@outlook.com](mailto:danieldascal@outlook.com)
-* 🧠  I'm learning Advanced JavaScript / React + Redux / Node.js / Express.js / NPM / RESTful API Design / PostgresSQL /
+* 🧠  Advanced JavaScript / React + Redux / Node.js / Express.js / NPM / RESTful API Design / PostgresSQL /
 * 🤝  I'm open to collaborating on WebDev related projects/concepts
 * ⚡  I'm fluent in English , Romanian , Russian
 
