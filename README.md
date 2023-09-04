@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-* 🌍  London , UK
-* ✉️  You can contact me at [danieldascal@outlook.com](mailto:danieldascal@outlook.com)
-* 🧠  Advanced JavaScript / React + Redux / Node.js / Express.js / NPM / RESTful API Design / PostgresSQL /
-* 🤝  I'm open to collaborating on WebDev related projects/concepts
+* 🌍  UK
+* ✉️  You can contact me via Linkedin.
+* 🧠  
+* 🤝  
 * ⚡  I'm fluent in English , Romanian , Russian
 
 ### Skills
