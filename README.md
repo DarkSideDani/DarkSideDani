@@ -5,7 +5,7 @@ Penetration Tester
 ------------------
 
 * 🌍  UK
-* ✉️  You can contact me via Linkedin.
+* ✉️  
 * ⚡  I'm fluent in English , Romanian , Russian
 
 ### Skills
