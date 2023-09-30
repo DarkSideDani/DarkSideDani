@@ -1,13 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel
 =====================================================================================================================================
 
-Software Developer
+Penetration Tester
 ------------------
 
 * 🌍  UK
 * ✉️  You can contact me via Linkedin.
-* 🧠  
-* 🤝  
 * ⚡  I'm fluent in English , Romanian , Russian
 
 ### Skills
