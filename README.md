@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel, aka DarkSideDani</h1>
 <h3 align="center">A passionate Backend developer, currently based in UK</h3>
 
-<p align="left"> <a href="https://twitter.com/darksidedani_" target="blank"><img src="https://img.shields.io/twitter/follow/darksidedani_?logo=twitter&style=for-the-badge" alt="darksidedani_" /></a> </p>
-
 - 🌱 I’m currently learning **Object Oriented Programming**
 
 <h3 align="left">Connect with me:</h3>
