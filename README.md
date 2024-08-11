@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel, aka DarkSideDani</h1>
-<h3 align="center">A passionate Junior Security Analyst, currently based in UK</h3>
+<h3 align="center">A passionate Software Engineer, currently based in UK</h3>
 
 <p align="left"> <a href="https://twitter.com/darksidedani_" target="blank"><img src="https://img.shields.io/twitter/follow/darksidedani_?logo=twitter&style=for-the-badge" alt="darksidedani_" /></a> </p>
 
